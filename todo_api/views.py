@@ -127,3 +127,6 @@ class TodoDetailView(APIView):
                 status=status.HTTP_200_OK,
             )
 
+# add, commit, push, pull, fetch, remote, branch, status
+# tracked and untracked files
+# staged and unstaged 
